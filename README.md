@@ -7,7 +7,7 @@ I enjoy solving real-world problems through clean, scalable, and secure code.
 
 ---
 
-###🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 - 🎓 **Mechatronic Engineer**
 - 🔐 **Cybersecurity Specialist**
