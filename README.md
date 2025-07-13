@@ -1,5 +1,8 @@
 <div align="center">
 <h1 align="center"> Hi! I'm Juan Pablo Roman 👋</h1>
+<blockquote align="center">
+  <em>"We don't program a single language, we program ideas."</em><br>
+</blockquote>
 </div>
 
 🎯 **Mechatronic Engineer** turned **Full Stack Developer** with a strong focus on **Cybersecurity**.
