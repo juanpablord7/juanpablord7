@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center"> Hi! I'm Juan Pablo Roman 👋</h1>
+<img src="https://i.imgur.com/bcdKKqR.jpeg" alt="Github Juanpablord Banner">
 <blockquote align="center">
   <em>"We don't program a single language, we program ideas."</em><br>
 </blockquote>
