@@ -1,10 +1,9 @@
 <div align="center">
 <h1 align="center"> Hi! I'm Juan Pablo Roman 👋</h1>
 <img src="https://i.imgur.com/bcdKKqR.jpeg" alt="Github Juanpablord Banner">
-<blockquote align="center">
-  <em>"We don't program a single language, we program ideas."</em><br>
-</blockquote>
+<em>"We don't program a single language, we program ideas."</em>
 </div>
+<br/>
 
 🎯 **Mechatronic Engineer** turned **Full Stack Developer** with a strong focus on **Cybersecurity**.
 I enjoy solving real-world problems through clean, scalable, and secure code.
