@@ -65,8 +65,8 @@ The backend is designed with a microservices-oriented architecture, enabling mod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanpabloroman&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabloroman&layout=compact&theme=tokyonight" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanpablord7&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablord7&layout=compact&theme=tokyonight" width="350" />
 </p>
 
 ---
