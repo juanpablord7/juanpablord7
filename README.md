@@ -29,6 +29,7 @@ I enjoy solving real-world problems through clean, scalable, and secure code.
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 
 ### 🧠 Programming Languages
 ![Java](https://shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
